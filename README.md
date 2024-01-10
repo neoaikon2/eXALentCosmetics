@@ -3,17 +3,17 @@
 A collection of random cosmetics you might not find anywhere else!
 
 Included Cosmetics:
-- ![Blue Baby Dragon](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/BlueBabyDragonIcon.png)
-- ![Pink Baby Dragon](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/PinkBabyDragonIcon.png)
-- ![Dragon Wings](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/DragonWingsIcon.png)
-- ![Duck Floaty](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/DuckFloatyIcon.png)
-- ![Face Tentacles](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/FaceTentacles.png)
-- ![Foam #1 Asset Finger](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/FoamFingerIcon.png)
-- ![Hermit Crab](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/HermitCrabIcon.png)
-- ![Johnny Gat Helmet](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/JohnnyGatHeadIcon.png)
-- ![Krusty Krab Employee Hat](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/KrustyKrabHatIcon.png)
-- ![Mysterious Helmet...](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/MysteriousHelmet.png)
-- ![Great Asset Piggyback Ride!](https://github.com/neoaikon2/eXALentCosmetics/BepInEx/plugins/icons/PiggyBackRideIcon.png)
+- ![Blue Baby Dragon](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/BlueBabyDragonIcon.png)
+- ![Pink Baby Dragon](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/PinkBabyDragonIcon.png)
+- ![Dragon Wings](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/DragonWingsIcon.png)
+- ![Duck Floaty](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/DuckFloatyIcon.png)
+- ![Face Tentacles](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/FaceTentacles.png)
+- ![Foam #1 Asset Finger](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/FoamFingerIcon.png)
+- ![Hermit Crab](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/HermitCrabIcon.png)
+- ![Johnny Gat Helmet](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/JohnnyGatHeadIcon.png)
+- ![Krusty Krab Employee Hat](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/KrustyKrabHatIcon.png)
+- ![Mysterious Helmet...](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/MysteriousHelmet.png)
+- ![Great Asset Piggyback Ride!](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/PiggyBackRideIcon.png)
 
 ## Credits and Attributions:
 
