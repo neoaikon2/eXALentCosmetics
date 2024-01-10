@@ -11,7 +11,7 @@ Pink Baby Dragon
 Dragon Wings
 - ![Duck Floaty](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/DuckFloatyIcon.png)  
 Duck Floaty
-- ![Face Tentacles](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/FaceTentacles.png)  
+- ![Face Tentacles](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/FaceTentaclesIcon.png)  
 Face Tentacles
 - ![Foam #1 Asset Finger](https://github.com/neoaikon2/eXALentCosmetics/blob/master/BepInEx/plugins/icons/FoamFingerIcon.png)  
 Foam #1 Asset Finger
