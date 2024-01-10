@@ -1,0 +1,10 @@
+{
+  "name": "eXALentCosmetics",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/neoaikon2/eXALentCosmetics/",
+  "description": "A collection of random cosmetics you might not find anywhere else!",
+  "dependencies": [
+	  "notnotnotswipez-MoreCompany-1.7.4",
+	  "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
