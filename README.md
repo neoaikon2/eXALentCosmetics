@@ -40,4 +40,4 @@ leunamanuelgc for the [Tentacles](https://sketchfab.com/3d-models/tentacle-00784
 plaggy for the [Foam Finger](https://sketchfab.com/3d-models/cc0-foam-finger-e6bd2d2a8bf24d13947941cdc4a56f32) model  
 Lydechaser for the [Hermit Crab](https://sketchfab.com/3d-models/hermitcrab-d2d44a881fa446d588bd032758ac0082) model  
 MajinBuu for the [Johnny Gat Mascot](https://www.models-resource.com/pc_computer/saintsrowthethird/model/13242/) model  
-Yanez Designs for the ![Krusty Krab Employee Hat](https://sketchfab.com/3d-models/krusty-krab-employee-hat-spongebob-8d0e167b2eef4c9d8b99bfd4823d9329) model
+Yanez Designs for the [Krusty Krab Employee Hat](https://sketchfab.com/3d-models/krusty-krab-employee-hat-spongebob-8d0e167b2eef4c9d8b99bfd4823d9329) model
